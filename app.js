@@ -1,5 +1,4 @@
 const items = document.querySelectorAll('#timeline li');
-consle.log("Hello World");
 
 const isInViewport = el => {
   const rect = el.getBoundingClientRect();
